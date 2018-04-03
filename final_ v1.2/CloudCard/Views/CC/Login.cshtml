@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+
+
+    <div id="login-box">
+        <div class="left">
+            <br>
+            <h1>Please enter your student info</h1>
+
+            <br><br>
+            <form action="/CC/GetLink">
+
+                <b>Email: </b>
+                <input type="text" placeholder="example@schoool.edu" name="Email" value="" aria-describedby="name-format" aria-required=”true” required pattern="[a-zA-Z0-9_.+-]+\u0040[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+">
+
+                <b>Name (First and Last Name): </b>
+                <!--input placeholder = "John Smith" type="text" name="Name" value=""-->
+                <input type="text" placeholder="John Smith" name="Name" value="" aria-describedby="name-format" required aria-required=”true” pattern="[A-Za-z]+\s[A-Za-z]+">
+
+                <b>Student ID #: </b>
+                <input type="text" placeholder="Your Student ID" name="ID" value="" required aria-required=”true” pattern="[0-9]+">
+
+
+                <b>School: </b>
+                <input type="text" placeholder="Your School" name="Campus" value="" required aria-required=”true” pattern="[A-Za-z]+\s*[A-Za-z]+">
+
+                <input type="submit" value="Submit">
+            </form>
+        </div>
+
+        <div class="right">
+            <img src="https://www.sobepromos.com/wp-content/uploads/2015/04/your-logo-here.png" alt="LOGO" style="width:330px;height:370px;">
+        </div>
+
+    </div>
+

@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Success";
+}
+<section class="hero" id="hero">
+    <center>
+       @if (@ViewData["Status"] == "null")
+        {
+            <h4>@ViewData["Name"] needs to submit their photo.</h4>
+        }
+        else
+        {
+            <h4>@ViewData["Name"] has already submitted their photo.</h4>
+        }
+
+        <br />
+        <h4><a href="@ViewData["Link"]">Click Here To Visit CloudCard</a></h4>
+    </center>
+</section>
