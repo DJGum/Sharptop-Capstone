@@ -1,0 +1,11 @@
+﻿//dont think this will be necessary
+
+{
+  "args": [
+    "authToken=qcp435enhuf196ofetlvf7guk1i6ihbd",
+    "baseURL=app.cloudcardtools.com",
+    "email=jack.sparrow@test.edu",
+    "idNumber=6565656",
+    "name=Jack Sparrow"
+  ]
+}

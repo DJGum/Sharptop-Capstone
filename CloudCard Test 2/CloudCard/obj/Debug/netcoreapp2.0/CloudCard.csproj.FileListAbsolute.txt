@@ -1,0 +1,88 @@
+C:\Users\mndrs\source\repos\CloudCard\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.deps.json
+C:\Users\mndrs\source\repos\CloudCard\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.runtimeconfig.json
+C:\Users\mndrs\source\repos\CloudCard\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.runtimeconfig.dev.json
+C:\Users\mndrs\source\repos\CloudCard\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.dll
+C:\Users\mndrs\source\repos\CloudCard\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.pdb
+C:\Users\mndrs\source\repos\CloudCard\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.csprojResolveAssemblyReference.cache
+C:\Users\mndrs\source\repos\CloudCard\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.csproj.CoreCompileInputs.cache
+C:\Users\mndrs\source\repos\CloudCard\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.AssemblyInfoInputs.cache
+C:\Users\mndrs\source\repos\CloudCard\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.AssemblyInfo.cs
+C:\Users\mndrs\source\repos\CloudCard\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.dll
+C:\Users\mndrs\source\repos\CloudCard\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.pdb
+C:\Users\F2P_window\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.deps.json
+C:\Users\F2P_window\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.runtimeconfig.json
+C:\Users\F2P_window\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.runtimeconfig.dev.json
+C:\Users\F2P_window\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.dll
+C:\Users\F2P_window\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.pdb
+C:\Users\F2P_window\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.csprojResolveAssemblyReference.cache
+C:\Users\F2P_window\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.csproj.CoreCompileInputs.cache
+C:\Users\F2P_window\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.AssemblyInfoInputs.cache
+C:\Users\F2P_window\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.AssemblyInfo.cs
+C:\Users\F2P_window\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.dll
+C:\Users\F2P_window\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.pdb
+C:\Users\psrisupakporn\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.deps.json
+C:\Users\psrisupakporn\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.runtimeconfig.json
+C:\Users\psrisupakporn\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.runtimeconfig.dev.json
+C:\Users\psrisupakporn\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.dll
+C:\Users\psrisupakporn\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.pdb
+C:\Users\psrisupakporn\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.csprojResolveAssemblyReference.cache
+C:\Users\psrisupakporn\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.csproj.CoreCompileInputs.cache
+C:\Users\psrisupakporn\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.AssemblyInfoInputs.cache
+C:\Users\psrisupakporn\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.AssemblyInfo.cs
+C:\Users\psrisupakporn\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.dll
+C:\Users\psrisupakporn\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.pdb
+C:\Users\F2P_Window_Test\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.deps.json
+C:\Users\F2P_Window_Test\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.runtimeconfig.json
+C:\Users\F2P_Window_Test\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.runtimeconfig.dev.json
+C:\Users\F2P_Window_Test\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.dll
+C:\Users\F2P_Window_Test\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.pdb
+C:\Users\F2P_Window_Test\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.csprojResolveAssemblyReference.cache
+C:\Users\F2P_Window_Test\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.csproj.CoreCompileInputs.cache
+C:\Users\F2P_Window_Test\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.AssemblyInfoInputs.cache
+C:\Users\F2P_Window_Test\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.AssemblyInfo.cs
+C:\Users\F2P_Window_Test\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.dll
+C:\Users\F2P_Window_Test\Dropbox\CapStone\Sharptop-Capstone-master\CloudCard\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.pdb
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard_with_UI\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.deps.json
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard_with_UI\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.runtimeconfig.json
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard_with_UI\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.runtimeconfig.dev.json
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard_with_UI\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.dll
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard_with_UI\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.pdb
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard_with_UI\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.csprojResolveAssemblyReference.cache
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard_with_UI\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.csproj.CoreCompileInputs.cache
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard_with_UI\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.AssemblyInfoInputs.cache
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard_with_UI\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.AssemblyInfo.cs
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard_with_UI\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.dll
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard_with_UI\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.pdb
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 1\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.deps.json
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 1\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.runtimeconfig.json
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 1\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.runtimeconfig.dev.json
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 1\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.dll
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 1\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.pdb
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 1\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.csprojResolveAssemblyReference.cache
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 1\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.csproj.CoreCompileInputs.cache
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 1\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.AssemblyInfoInputs.cache
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 1\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.AssemblyInfo.cs
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 1\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.dll
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 1\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.pdb
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 2\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.deps.json
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 2\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.runtimeconfig.json
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 2\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.runtimeconfig.dev.json
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 2\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.dll
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 2\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.pdb
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 2\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.csprojResolveAssemblyReference.cache
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 2\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.csproj.CoreCompileInputs.cache
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 2\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.AssemblyInfoInputs.cache
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 2\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.AssemblyInfo.cs
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 2\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.dll
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 2\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.pdb
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 2 (without Debug)\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.deps.json
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 2 (without Debug)\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.runtimeconfig.json
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 2 (without Debug)\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.runtimeconfig.dev.json
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 2 (without Debug)\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.dll
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 2 (without Debug)\CloudCard\bin\Debug\netcoreapp2.0\CloudCard.pdb
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 2 (without Debug)\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.csprojResolveAssemblyReference.cache
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 2 (without Debug)\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.csproj.CoreCompileInputs.cache
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 2 (without Debug)\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.AssemblyInfoInputs.cache
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 2 (without Debug)\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.AssemblyInfo.cs
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 2 (without Debug)\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.dll
+C:\Users\mndrs\Documents\CloudCard Versions\CloudCard Test 2 (without Debug)\CloudCard\obj\Debug\netcoreapp2.0\CloudCard.pdb
